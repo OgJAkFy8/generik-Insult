@@ -1,9 +1,0 @@
-red
-black
-blue
-green
-yellow
-magenta
-purple 
-pink
-orange
