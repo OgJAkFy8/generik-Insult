@@ -27,5 +27,3 @@ while name != "stop":
     name = input("What is your Name? ")
     insult = randInsult()
     Greeting (name)
-
-
