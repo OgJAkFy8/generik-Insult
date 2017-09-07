@@ -1,9 +1,9 @@
-$insults = Get-Content "\insult-list.txt" 
-$nice = Get-Content "\insult-BFF-list.txt"
+insults = Get-Content "\insult-list.txt" 
+nice = Get-Content "\insult-BFF-list.txt"
 
 
 cls
-Write-Host "Welcome to the BFF machine." -BackgroundColor Yellow -ForegroundColor Black
+print( "Welcome to the BFF machine." )
 
 do{
 Start-Sleep -s 3
