@@ -18,7 +18,7 @@ def Greeting(name):
         print( "Hello Sir "+ name)
     elif (name == "stop"):
         print("Thanks for playing.")
-    elif ((name == "mom") or (name == "dad" )):
+    elif ((name == "Mom") or (name == "Dad" )):
         print(name+ " you look fantastic today.")
     elif (name == 'quit'):
         print('So. I see you are a quitter.  \nYou loose 50 points')
@@ -43,7 +43,7 @@ lines(1)
     
 # Program
 while name != "quit":
-    if(count == 5):
+    if(count == 4):
         print('Enter "quit" to quit')
         count = 0
 
